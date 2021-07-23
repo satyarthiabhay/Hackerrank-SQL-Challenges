@@ -68,7 +68,7 @@ The solutions of all the Hackerrank SQL challenges for all easy, medium and hard
 | 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](/3.%20Aggregation/06.%20Population%20Density%20Difference.sql) | Easy | 10
 | 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](/3.%20Aggregation/07.%20The%20Blunder.sql)  | Easy | 15
 | 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](/3.%20Aggregation/08.%20Top%20Earners.sql) | Easy | 20       
-| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](/3.%20Aggregation/09.%20Weather%20Observation%20Station%202.sql) | | Easy | 15
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](/3.%20Aggregation/09.%20Weather%20Observation%20Station%202.sql) | Easy | 15
 | 10| [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](/3.%20Aggregation/10.%20Weather%20Observation%20Station%2013.sql) | Easy | 10
 | 11| [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](/3.%20Aggregation/11.%20Weather%20Observation%20Station%2014.sql) | Easy | 10
 | 12| [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](/3.%20Aggregation/12.%20Weather%20Observation%20Station%2015.sql) | Easy | 15
